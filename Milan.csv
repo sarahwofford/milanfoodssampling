@@ -1,0 +1,501 @@
+,hhid,foodexp,hhsize,income,edhead,agehead,kidlt6,kid618,satisfied,delivery,food.cat,incomecat,agehdcat
+1,1,30,3,24000,some college,45,No,No,Somewhat satisfied,Yes,30-44,$18-29K,45-54
+2,2,24.75,5,42000,high school grad,33,Yes,No,Completely dissatisfied,Yes,75-89,$30-44K,25-34
+3,3,24.75,3,7500,high school grad,27,Yes,No,Somewhat dissatisfied,Yes,15-29,less than $9K,25-34
+4,4,19.5,3,18000,less than grade,41,No,No,Neither satisfied nor dissatisfied,No,30-44,$18-29K,35-44
+5,5,28.5,3,10500,high school grad,25,Yes,No,Somewhat satisfied,Yes,15-29,$9-17K,25-34
+6,6,27.75,3,24000,9th-11th,29,Yes,No,Somewhat satisfied,Yes,30-44,$18-29K,25-34
+7,7,15.75,1,25500,9th-11th,45,No,No,Mostly dissatisfied,Yes,60-74,$18-29K,45-54
+8,8,29.25,1,21000,less than grade,51,No,No,Mostly dissatisfied,No,45-59,$18-29K,45-54
+9,9,22.5,1,42000,college grad,28,No,No,Completely dissatisfied,No,30-44,$30-44K,25-34
+10,10,22.5,2,90000,high school grad,40,No,No,Neither satisfied nor dissatisfied,No,45-59,$75K and over,35-44
+11,11,27.75,1,7500,less than grade,20,No,No,Somewhat satisfied,Yes,15-29,less than $9K,less than 25
+12,12,15,1,24000,less than grade,40,No,No,Mostly dissatisfied,No,45-59,$18-29K,35-44
+13,13,26.25,3,21000,high school grad,58,No,No,Neither satisfied nor dissatisfied,No,15-29,$18-29K,55-64
+14,14,20.25,3,42000,high school grad,49,No,No,Somewhat dissatisfied,No,45-59,$30-44K,45-54
+15,15,28.5,2,10500,less than grade,22,No,No,Somewhat satisfied,No,60-74,$9-17K,less than 25
+16,16,16.5,1,12000,high school grad,56,No,No,Completely dissatisfied,No,60-74,$9-17K,55-64
+17,17,21.75,3,33000,high school grad,32,Yes,No,Somewhat satisfied,Yes,less than $15K,$30-44K,25-34
+18,18,29.25,1,13500,high school grad,74,No,No,Mostly dissatisfied,Yes,15-29,$9-17K,65-74
+19,19,22.5,3,42000,some college,40,No,No,Somewhat satisfied,No,45-59,$30-44K,35-44
+20,20,20.25,1,15000,some college,28,No,No,Somewhat dissatisfied,Yes,30-44,$9-17K,25-34
+21,21,23.25,1,15000,high school grad,58,No,No,Completely dissatisfied,No,45-59,$9-17K,55-64
+22,22,27.75,3,7500,less than grade,19,No,No,Neither satisfied nor dissatisfied,No,15-29,less than $9K,less than 25
+23,23,23.25,3,60000,high school grad,32,Yes,No,Somewhat satisfied,Yes,30-44,$45-74K,less than 25
+24,24,15.75,2,15000,less than grade,47,No,No,Mostly dissatisfied,No,15-29,$9-17K,45-54
+25,25,15.75,2,54000,high school grad,41,No,No,Somewhat dissatisfied,Yes,15-29,$45-74K,35-44
+26,26,20.25,2,18900,less than grade,32,No,No,Somewhat satisfied,No,30-44,$18-29K,25-34
+27,27,19.5,2,13500,high school grad,23,No,No,Completely dissatisfied,No,30-44,$9-17K,less than 25
+28,28,24,2,78000,high school grad,50,No,No,Somewhat satisfied,Yes,45-59,$75K and over,45-54
+29,29,22.5,1,18000,9th-11th,64,No,No,Completely dissatisfied,Yes,15-29,$18-29K,55-64
+30,30,19.5,2,24000,college grad,78,No,No,Somewhat dissatisfied,No,15-29,$18-29K,7
+31,31,22.5,3,15000,9th-11th,46,Yes,No,Somewhat satisfied,No,less than $15K,$9-17K,45-54
+32,32,18.75,4,15000,college grad,28,Yes,No,Mostly dissatisfied,Yes,60-74,$9-17K,25-34
+33,33,21.75,1,10500,high school grad,22,No,No,Mostly dissatisfied,Yes,60-74,$9-17K,less than 25
+34,34,23.25,3,24000,high school grad,30,Yes,No,Somewhat dissatisfied,No,30-44,$18-29K,25-34
+35,35,23.25,2,39000,less than grade,23,No,No,Mostly dissatisfied,Yes,30-44,$30-44K,less than 25
+36,36,18,2,18000,9th-11th,70,No,No,Mostly dissatisfied,No,30-44,$18-29K,65-74
+37,37,19.5,1,30000,high school grad,59,No,No,Somewhat satisfied,Yes,60-74,$30-44K,55-64
+38,38,21.75,1,6000,less than grade,20,No,No,Completely dissatisfied,No,15-29,less than $9K,less than 25
+39,39,27.75,2,51000,high school grad,26,No,No,Mostly dissatisfied,No,45-59,$45-74K,25-34
+40,40,25.5,4,39000,9th-11th,30,Yes,No,Completely dissatisfied,No,45-59,$30-44K,25-34
+41,41,17.25,2,7500,less than grade,45,No,No,Mostly dissatisfied,No,15-29,less than $9K,45-54
+42,42,29.25,2,7500,less than grade,21,No,No,Neither satisfied nor dissatisfied,No,30-44,less than $9K,less than 25
+43,43,29.25,3,10500,some college,59,No,No,Completely dissatisfied,No,30-44,$9-17K,55-64
+44,44,15,3,24000,high school grad,31,No,No,Somewhat satisfied,No,60-74,$18-29K,25-34
+45,45,16.5,4,7500,9th-11th,53,Yes,No,Somewhat satisfied,No,15-29,less than $9K,45-54
+46,46,15.75,1,20400,high school grad,53,No,No,Somewhat satisfied,No,30-44,$18-29K,45-54
+47,47,15.75,2,30000,some college,45,No,No,Neither satisfied nor dissatisfied,Yes,45-59,$30-44K,45-54
+48,48,18,1,7500,high school grad,20,No,No,Completely dissatisfied,Yes,15-29,less than $9K,less than 25
+49,49,16.5,1,8400,less than grade,70,No,No,Mostly dissatisfied,No,15-29,less than $9K,65-74
+50,50,28.5,2,72000,high school grad,60,No,No,Somewhat satisfied,Yes,30-44,$45-74K,55-64
+51,51,38.25,2,18000,high school grad,21,No,No,Neither satisfied nor dissatisfied,Yes,15-29,$18-29K,less than 25
+52,52,38.25,1,27000,high school grad,36,No,No,Somewhat satisfied,Yes,45-59,$18-29K,35-44
+53,53,39.1,3,24000,some college,27,Yes,No,Somewhat satisfied,Yes,45-59,$18-29K,25-34
+54,54,43.35,4,42000,high school grad,25,Yes,No,Mostly satisfied,No,60-74,$30-44K,25-34
+55,55,47.6,3,72000,some college,62,No,No,Completely satisfied,Yes,30-44,$45-74K,55-64
+56,56,41.65,2,1500,less than grade,30,No,No,Neither satisfied nor dissatisfied,Yes,15-29,less than $9K,25-34
+57,57,45.05,2,54000,high school grad,44,No,No,Mostly satisfied,No,45-59,$45-74K,35-44
+58,58,50.15,1,12000,some college,71,No,No,Mostly satisfied,No,30-44,$9-17K,65-74
+59,59,31.45,3,24000,high school grad,27,Yes,No,Somewhat satisfied,No,45-59,$18-29K,25-34
+60,60,30.6,2,21000,high school grad,30,No,No,Neither satisfied nor dissatisfied,Yes,60-74,$18-29K,25-34
+61,61,41.65,2,39000,9th-11th,29,No,No,Somewhat satisfied,Yes,45-59,$30-44K,25-34
+62,62,26.35,2,1500,less than grade,19,No,No,Completely satisfied,Yes,less than $15K,less than $9K,less than 25
+63,63,26.35,2,51000,high school grad,37,No,No,Completely satisfied,Yes,60-74,$45-74K,35-44
+64,64,46.75,3,25500,less than grade,58,No,No,Somewhat satisfied,No,15-29,$18-29K,55-64
+65,65,39.95,1,42000,high school grad,58,No,No,Neither satisfied nor dissatisfied,Yes,30-44,$30-44K,55-64
+66,66,27.2,1,7500,college grad,25,No,No,Somewhat satisfied,No,less than $15K,less than $9K,25-34
+67,67,26.35,2,10500,college grad,76,No,No,Mostly satisfied,No,30-44,$9-17K,7
+68,68,44.2,1,12600,9th-11th,59,No,No,Neither satisfied nor dissatisfied,No,30-44,$9-17K,55-64
+69,69,44.2,2,18600,less than grade,26,No,No,Completely satisfied,Yes,15-29,$18-29K,25-34
+70,70,50.15,4,39000,high school grad,30,Yes,No,Somewhat satisfied,No,30-44,$30-44K,25-34
+71,71,40.8,3,60000,college grad,36,Yes,No,Neither satisfied nor dissatisfied,Yes,30-44,$45-74K,35-44
+72,72,30.6,1,7500,9th-11th,21,No,No,Somewhat satisfied,No,15-29,less than $9K,less than 25
+73,73,34,7,7500,9th-11th,35,Yes,No,Neither satisfied nor dissatisfied,No,45-59,less than $9K,35-44
+74,74,39.95,2,43500,college grad,47,No,No,Mostly satisfied,Yes,45-59,$30-44K,45-54
+75,75,49.3,3,39000,college grad,39,No,No,Neither satisfied nor dissatisfied,No,30-44,$30-44K,35-44
+76,76,46.75,2,45000,high school grad,54,No,No,Somewhat satisfied,No,45-59,$45-74K,45-54
+77,77,46.75,4,33000,high school grad,59,No,No,Completely satisfied,Yes,60-74,$30-44K,55-64
+78,78,29.75,2,18000,less than grade,27,No,No,Somewhat satisfied,No,45-59,$18-29K,25-34
+79,79,33.15,6,18000,high school grad,38,Yes,No,Somewhat satisfied,Yes,45-59,$18-29K,35-44
+80,80,44.2,4,13500,college grad,26,Yes,No,Somewhat satisfied,No,15-29,$9-17K,25-34
+81,81,50.15,3,13500,high school grad,62,No,No,Neither satisfied nor dissatisfied,Yes,30-44,$9-17K,55-64
+82,82,32.3,3,18000,high school grad,27,No,No,Mostly satisfied,No,30-44,$18-29K,25-34
+83,83,39.1,2,7500,less than grade,21,No,No,Mostly satisfied,Yes,30-44,less than $9K,less than 25
+84,84,28.9,7,78000,college grad,39,Yes,No,Somewhat satisfied,No,45-59,$75K and over,35-44
+85,85,34.85,2,10500,high school grad,68,No,No,Completely satisfied,No,30-44,$9-17K,65-74
+86,86,30.6,3,18000,high school grad,35,Yes,No,Completely satisfied,No,45-59,$18-29K,35-44
+87,87,48.45,3,18000,some college,77,No,No,Mostly satisfied,Yes,75-89,$18-29K,7
+88,88,45.05,3,60000,some college,60,No,No,Mostly satisfied,Yes,15-29,$45-74K,55-64
+89,89,47.6,3,126000,college grad,54,No,No,Neither satisfied nor dissatisfied,No,45-59,$75K and over,45-54
+90,90,29.75,1,7500,less than grade,19,No,No,Somewhat satisfied,Yes,less than $15K,less than $9K,less than 25
+91,91,50.15,3,10500,9th-11th,46,No,No,Mostly satisfied,Yes,30-44,$9-17K,45-54
+92,92,34.85,2,66000,high school grad,42,No,No,Somewhat satisfied,No,45-59,$45-74K,35-44
+93,93,37.4,2,33000,some college,40,No,No,Completely satisfied,No,45-59,$30-44K,35-44
+94,94,48.45,4,21000,high school grad,30,Yes,No,Somewhat satisfied,Yes,15-29,$18-29K,25-34
+95,95,46.75,2,30000,9th-11th,58,No,No,Completely satisfied,No,15-29,$30-44K,55-64
+96,96,43.35,2,7500,9th-11th,29,No,No,Neither satisfied nor dissatisfied,No,45-59,less than $9K,25-34
+97,97,44.2,2,13500,some college,26,No,No,Completely satisfied,Yes,15-29,$9-17K,25-34
+98,98,31.45,1,42000,college grad,24,No,No,Somewhat satisfied,Yes,45-59,$30-44K,less than 25
+99,99,34,3,30000,less than grade,33,No,No,Somewhat satisfied,No,30-44,$30-44K,25-34
+100,100,30.6,2,54000,high school grad,57,No,No,Completely satisfied,No,30-44,$45-74K,55-64
+101,101,87,3,33000,less than grade,69,No,No,Completely satisfied,Yes,75-89,$30-44K,65-74
+102,102,67.5,2,30000,high school grad,24,No,No,Somewhat dissatisfied,Yes,60-74,$30-44K,less than 25
+103,103,36,4,27000,9th-11th,73,No,No,Mostly satisfied,Yes,30-44,$18-29K,65-74
+104,104,40,4,84000,high school grad,39,No,No,Mostly satisfied,No,30-44,$75K and over,35-44
+105,105,18,1,10500,high school grad,29,No,No,Somewhat satisfied,Yes,15-29,$9-17K,25-34
+106,106,45,3,48000,high school grad,28,Yes,No,Somewhat dissatisfied,No,45-59,$45-74K,25-34
+107,107,37.5,1,13500,9th-11th,33,No,No,Somewhat dissatisfied,Yes,30-44,$9-17K,25-34
+108,108,40,4,18000,high school grad,22,Yes,No,Mostly dissatisfied,Yes,30-44,$18-29K,less than 25
+109,109,60,2,8400,less than grade,20,No,No,Somewhat dissatisfied,Yes,60-74,less than $9K,less than 25
+110,110,66,2,54000,9th-11th,62,No,No,Somewhat satisfied,Yes,60-74,$45-74K,55-64
+111,111,45,6,7500,9th-11th,33,Yes,No,Mostly dissatisfied,No,45-59,less than $9K,25-34
+112,112,15,2,4500,less than grade,19,No,No,Mostly satisfied,No,15-29,less than $9K,less than 25
+113,113,10.5,2,4500,less than grade,33,No,No,Completely dissatisfied,Yes,less than $15K,less than $9K,25-34
+114,114,97,2,16500,less than grade,58,No,No,Somewhat satisfied,No,$90K and over,$9-17K,55-64
+115,115,15,2,7500,less than grade,51,No,No,Neither satisfied nor dissatisfied,Yes,15-29,less than $9K,45-54
+116,116,30,3,13500,9th-11th,37,Yes,No,Somewhat satisfied,No,30-44,$9-17K,35-44
+117,117,30,2,10500,9th-11th,39,No,No,Somewhat satisfied,No,30-44,$9-17K,35-44
+118,118,30,2,34500,high school grad,44,No,No,Completely satisfied,Yes,30-44,$30-44K,35-44
+119,119,30,3,12000,some college,32,Yes,No,Somewhat satisfied,No,30-44,$9-17K,25-34
+120,120,50,4,18000,high school grad,76,No,No,Mostly satisfied,No,45-59,$18-29K,7
+121,121,45,1,33000,9th-11th,45,No,No,Mostly satisfied,Yes,45-59,$30-44K,45-54
+122,122,51,3,30000,some college,28,Yes,No,Neither satisfied nor dissatisfied,Yes,45-59,$30-44K,25-34
+123,123,18,2,39000,some college,56,No,No,Completely satisfied,Yes,15-29,$30-44K,55-64
+124,124,6,1,18000,9th-11th,26,No,No,Completely dissatisfied,No,less than $15K,$18-29K,25-34
+125,125,13,2,39000,college grad,25,No,No,Mostly satisfied,Yes,less than $15K,$30-44K,25-34
+126,126,22.5,2,21000,high school grad,27,No,No,Completely dissatisfied,Yes,15-29,$18-29K,25-34
+127,127,72,2,42000,college grad,30,Yes,No,Completely dissatisfied,Yes,60-74,$30-44K,25-34
+128,128,30,3,66000,college grad,33,Yes,No,Completely satisfied,Yes,30-44,$45-74K,25-34
+129,129,55,3,18000,high school grad,20,Yes,No,Mostly satisfied,No,45-59,$18-29K,less than 25
+130,130,25,2,45000,some college,24,No,No,Neither satisfied nor dissatisfied,No,15-29,$45-74K,less than 25
+131,131,45,4,57000,high school grad,67,No,No,Neither satisfied nor dissatisfied,No,45-59,$45-74K,65-74
+132,132,12,2,7500,college grad,23,No,No,Mostly dissatisfied,Yes,less than $15K,less than $9K,less than 25
+133,133,13.5,2,12000,less than grade,28,No,No,Neither satisfied nor dissatisfied,Yes,less than $15K,$9-17K,25-34
+134,134,36,1,12000,9th-11th,42,No,No,Somewhat dissatisfied,No,30-44,$9-17K,35-44
+135,135,30,2,27000,high school grad,29,No,No,Mostly dissatisfied,Yes,30-44,$18-29K,25-34
+136,136,15,3,13500,9th-11th,29,No,No,Somewhat satisfied,Yes,15-29,$9-17K,25-34
+137,137,30,3,18000,high school grad,22,Yes,No,Completely satisfied,No,30-44,$18-29K,less than 25
+138,138,30,3,18000,some college,23,Yes,No,Mostly dissatisfied,Yes,30-44,$18-29K,less than 25
+139,139,30,2,84000,college grad,64,No,No,Completely satisfied,Yes,30-44,$75K and over,55-64
+140,140,30,1,18000,less than grade,34,No,No,Completely satisfied,Yes,30-44,$18-29K,25-34
+141,141,24,2,7500,less than grade,60,No,No,Completely satisfied,No,15-29,less than $9K,55-64
+142,142,22.5,4,28500,high school grad,28,Yes,No,Mostly dissatisfied,No,15-29,$18-29K,25-34
+143,143,15,2,6000,9th-11th,39,No,No,Somewhat satisfied,No,15-29,less than $9K,35-44
+144,144,45,4,90000,some college,52,No,No,Neither satisfied nor dissatisfied,Yes,45-59,$75K and over,45-54
+145,145,52.5,1,37500,college grad,60,No,No,Somewhat dissatisfied,Yes,45-59,$30-44K,55-64
+146,146,7.5,2,7500,less than grade,51,No,No,Neither satisfied nor dissatisfied,No,less than $15K,less than $9K,45-54
+147,147,30,1,30000,high school grad,36,No,No,Mostly dissatisfied,No,30-44,$30-44K,35-44
+148,148,75,4,24000,high school grad,26,Yes,No,Somewhat satisfied,Yes,75-89,$18-29K,25-34
+149,149,22,2,7500,less than grade,40,No,No,Mostly satisfied,Yes,15-29,less than $9K,35-44
+150,150,10,1,4500,9th-11th,39,No,No,Completely satisfied,No,less than $15K,less than $9K,35-44
+151,151,45,1,8400,high school grad,22,No,No,Somewhat dissatisfied,Yes,45-59,less than $9K,less than 25
+152,152,25,2,7500,some college,69,No,No,Completely dissatisfied,Yes,15-29,less than $9K,65-74
+153,153,37.5,4,13500,some college,30,Yes,No,Somewhat satisfied,Yes,30-44,$9-17K,25-34
+154,154,30,3,30000,high school grad,50,No,No,Mostly dissatisfied,No,30-44,$30-44K,45-54
+155,155,24,3,7500,9th-11th,23,Yes,No,Neither satisfied nor dissatisfied,No,15-29,less than $9K,less than 25
+156,156,45,1,75000,high school grad,61,No,No,Somewhat satisfied,Yes,45-59,$75K and over,55-64
+157,157,19,3,9600,less than grade,24,Yes,No,Mostly dissatisfied,No,15-29,$9-17K,less than 25
+158,158,30,2,18000,less than grade,41,No,No,Mostly satisfied,Yes,30-44,$18-29K,35-44
+159,159,30,2,18000,9th-11th,48,No,No,Completely dissatisfied,No,30-44,$18-29K,45-54
+160,160,30,4,19500,high school grad,33,No,No,Neither satisfied nor dissatisfied,No,30-44,$18-29K,25-34
+161,161,37.5,3,18000,less than grade,47,No,No,Neither satisfied nor dissatisfied,No,30-44,$18-29K,45-54
+162,162,22.5,2,7500,less than grade,48,No,No,Mostly dissatisfied,No,15-29,less than $9K,45-54
+163,163,60,2,78000,high school grad,66,No,No,Mostly satisfied,No,60-74,$75K and over,65-74
+164,164,37.5,3,13500,high school grad,27,No,No,Somewhat dissatisfied,No,30-44,$9-17K,25-34
+165,165,45,5,42000,high school grad,29,Yes,No,Somewhat dissatisfied,Yes,45-59,$30-44K,25-34
+166,166,22.5,2,81000,high school grad,46,No,No,Mostly satisfied,No,15-29,$75K and over,45-54
+167,167,30,4,18000,9th-11th,40,No,No,Completely satisfied,Yes,30-44,$18-29K,35-44
+168,168,60,3,39000,some college,33,Yes,No,Mostly dissatisfied,No,60-74,$30-44K,25-34
+169,169,12,1,7500,less than grade,50,No,No,Mostly dissatisfied,Yes,less than $15K,less than $9K,55-64
+170,170,15,2,7500,less than grade,31,No,No,Somewhat satisfied,No,15-29,less than $9K,25-34
+171,171,15,1,10500,less than grade,76,No,No,Neither satisfied nor dissatisfied,No,15-29,$9-17K,7
+172,172,27,2,54000,some college,34,No,No,Completely dissatisfied,No,15-29,$45-74K,25-34
+173,173,52,2,15000,some college,35,No,No,Mostly satisfied,No,45-59,$9-17K,35-44
+174,174,30,3,27000,college grad,32,Yes,No,Somewhat satisfied,No,30-44,$18-29K,25-34
+175,175,15,2,4500,less than grade,39,No,No,Mostly satisfied,No,15-29,less than $9K,35-44
+176,176,22.5,2,5700,less than grade,40,Yes,No,Mostly satisfied,No,15-29,less than $9K,35-44
+177,177,50,3,42000,high school grad,29,Yes,No,Completely satisfied,Yes,45-59,$30-44K,25-34
+178,178,45,3,24000,high school grad,43,No,No,Somewhat dissatisfied,No,45-59,$18-29K,35-44
+179,179,30,3,18900,less than grade,43,No,No,Mostly satisfied,Yes,30-44,$18-29K,35-44
+180,180,35,2,42000,high school grad,59,No,No,Completely dissatisfied,Yes,30-44,$30-44K,55-64
+181,181,30,4,18000,high school grad,29,Yes,No,Mostly dissatisfied,No,30-44,$18-29K,25-34
+182,182,30,2,9000,less than grade,50,No,No,Completely dissatisfied,No,30-44,$9-17K,45-54
+183,183,36,1,15000,some college,36,No,No,Somewhat dissatisfied,No,30-44,$9-17K,35-44
+184,184,42,2,9000,less than grade,19,No,No,Completely dissatisfied,No,30-44,$9-17K,less than 25
+185,185,28,2,13500,less than grade,44,No,No,Somewhat satisfied,No,15-29,$9-17K,35-44
+186,186,37.5,2,18000,9th-11th,30,No,No,Completely satisfied,No,30-44,$18-29K,25-34
+187,187,45,4,30000,high school grad,68,No,No,Mostly satisfied,Yes,45-59,$30-44K,65-74
+188,188,30,5,18000,some college,32,Yes,No,Somewhat dissatisfied,Yes,30-44,$18-29K,25-34
+189,189,25.5,1,18000,less than grade,66,No,No,Somewhat satisfied,No,15-29,$18-29K,65-74
+190,190,39,2,9000,less than grade,38,No,No,Mostly satisfied,Yes,30-44,$9-17K,35-44
+191,191,37.5,2,10500,less than grade,35,No,No,Mostly dissatisfied,Yes,30-44,$9-17K,35-44
+192,192,17,1,13500,less than grade,60,No,No,Neither satisfied nor dissatisfied,Yes,15-29,$9-17K,55-64
+193,193,51,4,12000,high school grad,24,Yes,No,Neither satisfied nor dissatisfied,Yes,45-59,$9-17K,less than 25
+194,194,75,4,15000,less than grade,32,Yes,No,Somewhat satisfied,Yes,75-89,$9-17K,25-34
+195,195,26,1,1500,less than grade,68,No,No,Neither satisfied nor dissatisfied,No,15-29,less than $9K,65-74
+196,196,50,3,51000,9th-11th,32,No,No,Completely dissatisfied,No,45-59,$45-74K,25-34
+197,197,20,2,25800,9th-11th,46,No,No,Mostly dissatisfied,No,15-29,$18-29K,45-54
+198,198,37.5,4,36000,high school grad,32,Yes,No,Neither satisfied nor dissatisfied,No,30-44,$30-44K,25-34
+199,199,22,2,52500,some college,58,No,No,Mostly satisfied,No,15-29,$45-74K,55-64
+200,200,7.5,1,1500,9th-11th,69,No,No,Somewhat satisfied,No,less than $15K,less than $9K,65-74
+201,201,26,3,7500,high school grad,32,Yes,No,Somewhat satisfied,Yes,15-29,less than $9K,25-34
+202,202,22,3,21000,college grad,30,Yes,No,Mostly dissatisfied,Yes,15-29,$18-29K,25-34
+203,203,32,2,19500,less than grade,34,No,No,Completely satisfied,No,30-44,$18-29K,25-34
+204,204,22.5,2,10500,9th-11th,30,No,No,Mostly satisfied,No,15-29,$9-17K,25-34
+205,205,40,3,90000,some college,47,No,No,Somewhat satisfied,Yes,30-44,$75K and over,45-54
+206,206,60,2,18600,9th-11th,44,No,No,Mostly satisfied,Yes,60-74,$18-29K,35-44
+207,207,42,2,39000,high school grad,38,No,No,Somewhat dissatisfied,Yes,30-44,$30-44K,35-44
+208,208,51,1,45000,9th-11th,53,No,No,Neither satisfied nor dissatisfied,Yes,45-59,$45-74K,45-54
+209,209,27,4,7500,9th-11th,31,Yes,No,Neither satisfied nor dissatisfied,No,15-29,less than $9K,25-34
+210,210,30,2,45000,less than grade,34,No,No,Completely satisfied,Yes,30-44,$45-74K,25-34
+211,211,37.5,4,13500,high school grad,27,Yes,No,Completely satisfied,Yes,30-44,$9-17K,25-34
+212,212,52,3,75000,9th-11th,59,No,No,Neither satisfied nor dissatisfied,Yes,45-59,$75K and over,55-64
+213,213,50,5,27000,high school grad,31,Yes,No,Somewhat satisfied,No,45-59,$18-29K,25-34
+214,214,30,1,36000,high school grad,29,No,No,Somewhat dissatisfied,Yes,30-44,$30-44K,25-34
+215,215,7.5,1,4500,less than grade,67,No,No,Neither satisfied nor dissatisfied,Yes,less than $15K,less than $9K,65-74
+216,216,60,7,13500,high school grad,29,Yes,No,Neither satisfied nor dissatisfied,No,60-74,$9-17K,25-34
+217,217,30,1,36000,high school grad,47,No,No,Somewhat satisfied,No,30-44,$30-44K,45-54
+218,218,50,2,18000,9th-11th,56,No,No,Neither satisfied nor dissatisfied,No,45-59,$18-29K,55-64
+219,219,75,2,66000,some college,41,No,No,Mostly satisfied,No,75-89,$45-74K,35-44
+220,220,37.5,3,24000,college grad,28,Yes,No,Somewhat satisfied,No,30-44,$18-29K,25-34
+221,221,37.5,2,30000,high school grad,61,No,No,Somewhat dissatisfied,Yes,30-44,$30-44K,55-64
+222,222,30,2,13500,9th-11th,36,No,No,Completely satisfied,Yes,30-44,$9-17K,35-44
+223,223,67.5,3,36000,high school grad,24,Yes,No,Completely dissatisfied,Yes,60-74,$30-44K,less than 25
+224,224,65,2,36000,high school grad,54,No,No,Neither satisfied nor dissatisfied,No,60-74,$30-44K,45-54
+225,225,16.5,2,7500,less than grade,64,No,No,Completely satisfied,No,15-29,less than $9K,55-64
+226,226,60,4,24000,high school grad,33,Yes,No,Neither satisfied nor dissatisfied,Yes,60-74,$18-29K,25-34
+227,227,15,2,13500,9th-11th,26,No,No,Completely satisfied,No,15-29,$9-17K,25-34
+228,228,21,3,7500,less than grade,33,No,No,Mostly satisfied,No,15-29,less than $9K,25-34
+229,229,36,3,36000,high school grad,28,Yes,No,Completely satisfied,No,30-44,$30-44K,25-34
+230,230,50,2,33000,9th-11th,38,No,No,Somewhat dissatisfied,No,45-59,$30-44K,35-44
+231,231,30,2,18000,less than grade,49,No,No,Neither satisfied nor dissatisfied,Yes,30-44,$18-29K,45-54
+232,232,37.5,2,21000,high school grad,25,No,No,Neither satisfied nor dissatisfied,No,30-44,$18-29K,25-34
+233,233,12,2,1500,less than grade,26,No,No,Mostly satisfied,No,less than $15K,less than $9K,25-34
+234,234,30,3,30000,high school grad,19,Yes,No,Somewhat satisfied,Yes,30-44,$30-44K,less than 25
+235,235,20,2,24000,less than grade,35,No,No,Somewhat satisfied,Yes,15-29,$18-29K,35-44
+236,236,51,4,27000,college grad,34,Yes,No,Somewhat satisfied,Yes,45-59,$18-29K,25-34
+237,237,70,4,42000,some college,29,Yes,No,Neither satisfied nor dissatisfied,No,60-74,$30-44K,25-34
+238,238,15,2,7500,9th-11th,31,No,No,Somewhat dissatisfied,No,15-29,less than $9K,25-34
+239,239,20,2,27000,high school grad,34,No,No,Completely dissatisfied,No,15-29,$18-29K,25-34
+240,240,15,2,1500,less than grade,56,No,No,Neither satisfied nor dissatisfied,Yes,15-29,less than $9K,55-64
+241,241,22.5,2,4500,9th-11th,24,No,No,Neither satisfied nor dissatisfied,No,15-29,less than $9K,less than 25
+242,242,20,2,10500,less than grade,23,No,No,Mostly satisfied,No,15-29,$9-17K,less than 25
+243,243,37.5,2,66000,less than grade,42,No,No,Completely satisfied,No,30-44,$45-74K,35-44
+244,244,30,2,12000,less than grade,40,No,No,Mostly satisfied,Yes,30-44,$9-17K,35-44
+245,245,15,1,18000,college grad,28,No,No,Somewhat satisfied,Yes,15-29,$18-29K,25-34
+246,246,20,4,27000,college grad,30,Yes,No,Neither satisfied nor dissatisfied,No,15-29,$18-29K,25-34
+247,247,50,3,13500,some college,39,No,No,Mostly satisfied,Yes,45-59,$9-17K,35-44
+248,248,12,1,4500,less than grade,72,No,No,Somewhat satisfied,No,less than $15K,less than $9K,65-74
+249,249,45,2,81000,9th-11th,40,No,No,Completely satisfied,No,45-59,$75K and over,35-44
+250,250,37.5,2,78000,high school grad,34,No,No,Mostly satisfied,No,30-44,$75K and over,25-34
+251,251,30,2,13500,high school grad,63,No,No,Completely dissatisfied,No,30-44,$9-17K,55-64
+252,252,18,2,7500,less than grade,20,No,No,Mostly satisfied,No,15-29,less than $9K,less than 25
+253,253,11,2,1500,less than grade,26,No,No,Mostly dissatisfied,Yes,less than $15K,less than $9K,25-34
+254,254,18,2,12000,less than grade,32,No,No,Completely dissatisfied,No,15-29,$9-17K,25-34
+255,255,48,2,36000,9th-11th,50,No,No,Mostly satisfied,Yes,45-59,$30-44K,45-54
+256,256,12,2,4500,less than grade,36,No,No,Mostly dissatisfied,Yes,less than $15K,less than $9K,35-44
+257,257,16,2,1500,less than grade,54,No,No,Somewhat satisfied,Yes,15-29,less than $9K,45-54
+258,258,120,3,24000,less than grade,39,No,No,Mostly dissatisfied,Yes,$90K and over,$18-29K,35-44
+259,259,30,1,72000,high school grad,32,No,No,Somewhat satisfied,Yes,30-44,$45-74K,25-34
+260,260,15,2,1500,less than grade,70,No,No,Somewhat dissatisfied,No,15-29,less than $9K,65-74
+261,261,7.5,3,8400,less than grade,20,Yes,No,Completely dissatisfied,Yes,less than $15K,less than $9K,less than 25
+262,262,15,2,10500,high school grad,22,No,No,Neither satisfied nor dissatisfied,No,15-29,$9-17K,less than 25
+263,263,35,3,11700,9th-11th,20,Yes,No,Somewhat satisfied,No,30-44,$9-17K,less than 25
+264,264,24,2,7500,less than grade,28,No,No,Completely satisfied,No,15-29,less than $9K,25-34
+265,265,48,2,54000,high school grad,63,No,No,Somewhat satisfied,Yes,45-59,$45-74K,55-64
+266,266,22.5,3,18000,high school grad,23,Yes,No,Mostly dissatisfied,Yes,15-29,$18-29K,less than 25
+267,267,36,3,8400,9th-11th,31,Yes,No,Mostly satisfied,No,30-44,less than $9K,25-34
+268,268,30,3,51000,9th-11th,41,Yes,No,Mostly satisfied,No,30-44,$45-74K,35-44
+269,269,47,2,39000,9th-11th,60,No,No,Mostly dissatisfied,Yes,45-59,$30-44K,55-64
+270,270,48,1,13500,high school grad,24,No,No,Neither satisfied nor dissatisfied,No,45-59,$9-17K,less than 25
+271,271,30,4,24000,some college,28,Yes,No,Mostly satisfied,Yes,30-44,$18-29K,25-34
+272,272,33,4,18000,college grad,32,Yes,No,Completely dissatisfied,No,30-44,$18-29K,25-34
+273,273,37.5,2,33000,high school grad,23,No,No,Mostly dissatisfied,No,30-44,$30-44K,less than 25
+274,274,60,2,27000,high school grad,59,No,No,Mostly dissatisfied,Yes,60-74,$18-29K,55-64
+275,275,33,4,13500,high school grad,29,Yes,Yes,Mostly satisfied,Yes,30-44,$9-17K,25-34
+276,276,37.5,4,18000,high school grad,28,No,Yes,Mostly satisfied,Yes,30-44,$18-29K,25-34
+277,277,37.5,3,51000,college grad,52,No,Yes,Completely dissatisfied,No,30-44,$45-74K,45-54
+278,278,40,3,24000,some college,23,No,Yes,Mostly dissatisfied,No,30-44,$18-29K,less than 25
+279,279,75,9,1500,9th-11th,35,Yes,Yes,Completely dissatisfied,Yes,75-89,less than $9K,35-44
+280,280,39,5,18000,9th-11th,61,No,Yes,Neither satisfied nor dissatisfied,Yes,30-44,$18-29K,55-64
+281,281,48,4,51000,some college,29,No,Yes,Somewhat dissatisfied,Yes,45-59,$45-74K,25-34
+282,282,39,4,30000,high school grad,46,No,Yes,Neither satisfied nor dissatisfied,No,30-44,$30-44K,45-54
+283,283,55,4,60000,some college,36,Yes,Yes,Neither satisfied nor dissatisfied,No,45-59,$45-74K,35-44
+284,284,45,4,18000,high school grad,54,No,Yes,Completely satisfied,No,45-59,$18-29K,45-54
+285,285,45,4,54000,high school grad,49,No,Yes,Somewhat satisfied,No,45-59,$45-74K,45-54
+286,286,35,5,13500,9th-11th,39,Yes,Yes,Completely dissatisfied,No,30-44,$9-17K,35-44
+287,287,40,6,42000,less than grade,39,Yes,Yes,Neither satisfied nor dissatisfied,No,30-44,$30-44K,35-44
+288,288,15,7,4500,less than grade,49,Yes,Yes,Completely dissatisfied,Yes,15-29,less than $9K,45-54
+289,289,65,5,63000,9th-11th,40,Yes,Yes,Completely satisfied,No,60-74,$45-74K,35-44
+290,290,45,8,18000,9th-11th,41,Yes,Yes,Completely dissatisfied,No,45-59,$18-29K,35-44
+291,291,45,3,105000,some college,44,No,Yes,Mostly dissatisfied,Yes,45-59,$75K and over,35-44
+292,292,75,6,13500,less than grade,33,Yes,Yes,Mostly satisfied,Yes,75-89,$9-17K,25-34
+293,293,80,5,39000,9th-11th,36,Yes,Yes,Mostly satisfied,Yes,75-89,$30-44K,35-44
+294,294,34.5,9,10500,less than grade,60,Yes,Yes,Somewhat satisfied,Yes,30-44,$9-17K,55-64
+295,295,45,4,24000,9th-11th,41,Yes,Yes,Somewhat satisfied,No,45-59,$18-29K,35-44
+296,296,38,4,7500,less than grade,55,No,Yes,Neither satisfied nor dissatisfied,Yes,30-44,less than $9K,55-64
+297,297,52,3,27000,9th-11th,38,Yes,Yes,Neither satisfied nor dissatisfied,No,45-59,$18-29K,35-44
+298,298,135,6,66000,some college,44,No,Yes,Completely dissatisfied,No,$90K and over,$45-74K,35-44
+299,299,75,4,13500,less than grade,40,Yes,Yes,Completely dissatisfied,Yes,75-89,$9-17K,35-44
+300,300,50,9,7500,high school grad,50,Yes,Yes,Neither satisfied nor dissatisfied,Yes,45-59,less than $9K,45-54
+301,301,37.5,5,30000,high school grad,48,No,Yes,Completely satisfied,Yes,30-44,$30-44K,45-54
+302,302,67.5,4,30000,high school grad,47,No,Yes,Completely dissatisfied,No,60-74,$30-44K,45-54
+303,303,58,6,33000,9th-11th,39,Yes,Yes,Neither satisfied nor dissatisfied,Yes,45-59,$30-44K,35-44
+304,304,67.5,7,33000,less than grade,48,No,Yes,Mostly satisfied,No,60-74,$30-44K,45-54
+305,305,37.5,6,10500,less than grade,32,No,Yes,Completely satisfied,Yes,30-44,$9-17K,25-34
+306,306,100,7,18000,less than grade,53,Yes,Yes,Mostly dissatisfied,No,$90K and over,$18-29K,45-54
+307,307,25,4,18000,high school grad,29,No,Yes,Completely satisfied,No,15-29,$18-29K,25-34
+308,308,45,4,36000,high school grad,33,No,Yes,Completely satisfied,No,45-59,$30-44K,25-34
+309,309,110,3,33000,less than grade,43,No,Yes,Mostly satisfied,No,$90K and over,$30-44K,35-44
+310,310,52.5,3,51000,college grad,40,No,Yes,Mostly dissatisfied,Yes,45-59,$45-74K,35-44
+311,311,27,4,12000,less than grade,46,No,Yes,Completely dissatisfied,No,15-29,$9-17K,45-54
+312,312,51,4,18000,less than grade,44,Yes,Yes,Somewhat satisfied,No,45-59,$18-29K,35-44
+313,313,75,9,54000,high school grad,49,Yes,Yes,Mostly satisfied,No,75-89,$45-74K,45-54
+314,314,37.5,5,24000,less than grade,51,Yes,Yes,Mostly satisfied,No,30-44,$18-29K,45-54
+315,315,45,4,13500,some college,55,No,Yes,Somewhat dissatisfied,Yes,45-59,$9-17K,55-64
+316,316,37.5,4,18000,9th-11th,45,Yes,Yes,Mostly satisfied,Yes,30-44,$18-29K,45-54
+317,317,60,3,48000,high school grad,40,No,Yes,Neither satisfied nor dissatisfied,No,60-74,$45-74K,35-44
+318,318,50,5,7500,less than grade,29,Yes,Yes,Somewhat satisfied,No,45-59,less than $9K,25-34
+319,319,39,4,36000,high school grad,43,No,Yes,Mostly satisfied,Yes,30-44,$30-44K,35-44
+320,320,39,7,37500,9th-11th,42,Yes,Yes,Mostly dissatisfied,Yes,30-44,$30-44K,35-44
+321,321,75,4,54000,some college,33,No,Yes,Completely satisfied,Yes,75-89,$45-74K,25-34
+322,322,75,4,43500,college grad,34,Yes,Yes,Completely satisfied,Yes,75-89,$30-44K,25-34
+323,323,37.5,4,52500,high school grad,30,Yes,Yes,Somewhat satisfied,Yes,30-44,$45-74K,25-34
+324,324,95,7,57000,high school grad,39,No,Yes,Mostly satisfied,Yes,$90K and over,$45-74K,35-44
+325,325,45,5,10500,high school grad,37,Yes,Yes,Somewhat satisfied,No,45-59,$9-17K,35-44
+326,326,60,8,18000,high school grad,41,Yes,Yes,Mostly dissatisfied,No,60-74,$18-29K,35-44
+327,327,39,5,18000,less than grade,47,Yes,Yes,Completely dissatisfied,Yes,30-44,$18-29K,45-54
+328,328,75,5,36000,9th-11th,50,No,Yes,Mostly dissatisfied,Yes,75-89,$30-44K,45-54
+329,329,75,6,39000,some college,40,Yes,Yes,Somewhat dissatisfied,No,75-89,$30-44K,35-44
+330,330,28,5,19500,9th-11th,49,No,Yes,Completely satisfied,Yes,15-29,$18-29K,45-54
+331,331,52.5,5,24000,some college,43,No,Yes,Mostly dissatisfied,No,45-59,$18-29K,35-44
+332,332,45,4,24000,high school grad,49,No,Yes,Completely dissatisfied,No,45-59,$18-29K,45-54
+333,333,37.5,5,10500,9th-11th,36,Yes,Yes,Completely dissatisfied,Yes,30-44,$9-17K,35-44
+334,334,67.5,9,45000,high school grad,47,No,Yes,Somewhat dissatisfied,Yes,60-74,$45-74K,45-54
+335,335,21,6,37500,9th-11th,48,No,Yes,Somewhat satisfied,No,15-29,$30-44K,45-54
+336,336,50,7,21000,high school grad,47,Yes,Yes,Completely dissatisfied,Yes,45-59,$18-29K,45-54
+337,337,45,7,18000,high school grad,49,No,Yes,Somewhat dissatisfied,Yes,45-59,$18-29K,45-54
+338,338,52.5,6,7500,less than grade,37,Yes,Yes,Somewhat satisfied,No,45-59,less than $9K,35-44
+339,339,53,3,19500,less than grade,51,No,Yes,Somewhat dissatisfied,Yes,45-59,$18-29K,45-54
+340,340,100,7,60000,some college,48,Yes,Yes,Somewhat satisfied,No,$90K and over,$45-74K,45-54
+341,341,39,5,36000,less than grade,56,No,Yes,Completely dissatisfied,No,30-44,$30-44K,55-64
+342,342,25,4,13500,9th-11th,29,Yes,Yes,Completely satisfied,No,15-29,$9-17K,25-34
+343,343,37.5,5,13500,high school grad,46,Yes,Yes,Somewhat dissatisfied,No,30-44,$9-17K,45-54
+344,344,115,6,72000,college grad,36,Yes,Yes,Somewhat dissatisfied,No,$90K and over,$45-74K,35-44
+345,345,54,4,60000,high school grad,45,No,Yes,Somewhat satisfied,Yes,45-59,$45-74K,45-54
+346,346,55,5,60000,high school grad,42,No,Yes,Somewhat dissatisfied,Yes,45-59,$45-74K,35-44
+347,347,30,4,13500,less than grade,48,No,Yes,Completely satisfied,No,30-44,$9-17K,45-54
+348,348,35,5,7500,high school grad,49,No,Yes,Neither satisfied nor dissatisfied,No,30-44,less than $9K,45-54
+349,349,45,5,18000,some college,31,No,Yes,Mostly dissatisfied,No,45-59,$18-29K,25-34
+350,350,54,5,25500,9th-11th,39,No,Yes,Somewhat dissatisfied,Yes,45-59,$18-29K,35-44
+351,351,22.5,4,15000,less than grade,30,Yes,Yes,Mostly satisfied,Yes,15-29,$9-17K,25-34
+352,352,40,3,72000,college grad,40,No,Yes,Completely satisfied,Yes,30-44,$45-74K,35-44
+353,353,51,5,33000,high school grad,35,Yes,Yes,Somewhat satisfied,Yes,45-59,$30-44K,35-44
+354,354,40,4,51000,high school grad,38,No,Yes,Mostly dissatisfied,No,30-44,$45-74K,35-44
+355,355,70,6,72000,some college,44,No,Yes,Neither satisfied nor dissatisfied,Yes,60-74,$45-74K,35-44
+356,356,35,7,10500,high school grad,37,Yes,Yes,Mostly satisfied,Yes,30-44,$9-17K,35-44
+357,357,38,8,27000,9th-11th,38,Yes,Yes,Neither satisfied nor dissatisfied,No,30-44,$18-29K,35-44
+358,358,45,8,13500,high school grad,51,Yes,Yes,Completely satisfied,No,45-59,$9-17K,45-54
+359,359,45,5,18000,college grad,37,No,Yes,Completely satisfied,No,45-59,$18-29K,35-44
+360,360,110,6,39000,high school grad,52,No,Yes,Somewhat dissatisfied,Yes,$90K and over,$30-44K,45-54
+361,361,27,6,39000,9th-11th,38,Yes,Yes,Mostly satisfied,No,15-29,$30-44K,35-44
+362,362,100,5,37500,9th-11th,30,Yes,Yes,Completely satisfied,Yes,$90K and over,$30-44K,25-34
+363,363,54,4,37500,high school grad,30,Yes,Yes,Completely dissatisfied,Yes,45-59,$30-44K,25-34
+364,364,120,4,40500,high school grad,48,No,Yes,Mostly dissatisfied,Yes,$90K and over,$30-44K,45-54
+365,365,80,6,42000,high school grad,49,No,Yes,Completely satisfied,No,75-89,$30-44K,45-54
+366,366,105,7,60000,high school grad,38,Yes,Yes,Completely dissatisfied,No,$90K and over,$45-74K,35-44
+367,367,45,4,43500,some college,56,No,Yes,Neither satisfied nor dissatisfied,No,45-59,$30-44K,55-64
+368,368,80,5,33000,high school grad,49,No,Yes,Mostly dissatisfied,No,75-89,$30-44K,45-54
+369,369,60,6,72000,some college,39,No,Yes,Mostly satisfied,Yes,60-74,$45-74K,35-44
+370,370,35,4,24000,high school grad,33,No,Yes,Somewhat satisfied,No,30-44,$18-29K,25-34
+371,371,40,2,10500,9th-11th,49,No,Yes,Neither satisfied nor dissatisfied,Yes,30-44,$9-17K,45-54
+372,372,42,6,21000,9th-11th,33,Yes,Yes,Somewhat satisfied,Yes,30-44,$18-29K,25-34
+373,373,37.5,4,18000,high school grad,31,No,Yes,Mostly dissatisfied,Yes,30-44,$18-29K,25-34
+374,374,30,9,7500,less than grade,43,Yes,Yes,Neither satisfied nor dissatisfied,Yes,30-44,less than $9K,35-44
+375,375,58,8,30000,less than grade,42,Yes,Yes,Mostly satisfied,No,45-59,$30-44K,35-44
+376,376,45,7,108000,some college,43,Yes,Yes,Completely dissatisfied,Yes,45-59,$75K and over,35-44
+377,377,45,6,24000,some college,39,Yes,Yes,Somewhat satisfied,Yes,45-59,$18-29K,35-44
+378,378,57,8,60000,9th-11th,39,Yes,Yes,Mostly satisfied,Yes,45-59,$45-74K,35-44
+379,379,45,3,24000,high school grad,43,No,Yes,Mostly dissatisfied,No,45-59,$18-29K,35-44
+380,380,75,8,99000,college grad,42,Yes,Yes,Completely satisfied,No,75-89,$75K and over,35-44
+381,381,34.5,5,30000,less than grade,38,Yes,Yes,Mostly dissatisfied,Yes,30-44,$30-44K,35-44
+382,382,39,5,24000,high school grad,40,Yes,Yes,Mostly satisfied,Yes,30-44,$18-29K,35-44
+383,383,36,4,24000,9th-11th,38,No,Yes,Completely dissatisfied,No,30-44,$18-29K,35-44
+384,384,36,5,43500,high school grad,36,Yes,Yes,Mostly dissatisfied,Yes,30-44,$30-44K,35-44
+385,385,60,4,19200,less than grade,36,No,Yes,Neither satisfied nor dissatisfied,No,60-74,$18-29K,35-44
+386,386,45,3,57000,high school grad,49,No,Yes,Neither satisfied nor dissatisfied,No,45-59,$45-74K,45-54
+387,387,57,5,28500,some college,36,Yes,Yes,Completely satisfied,No,45-59,$18-29K,35-44
+388,388,40,3,10500,9th-11th,52,No,Yes,Somewhat dissatisfied,Yes,30-44,$9-17K,45-54
+389,389,55,5,39000,high school grad,48,No,Yes,Mostly satisfied,No,45-59,$30-44K,45-54
+390,390,67.5,5,18000,high school grad,36,Yes,Yes,Completely dissatisfied,Yes,60-74,$18-29K,35-44
+391,391,60,5,27600,less than grade,58,Yes,Yes,Mostly satisfied,No,60-74,$18-29K,55-64
+392,392,55,3,84000,some college,48,No,Yes,Somewhat dissatisfied,No,45-59,$75K and over,45-54
+393,393,45,5,24000,some college,48,No,Yes,Mostly dissatisfied,No,45-59,$18-29K,45-54
+394,394,90,4,42000,high school grad,34,Yes,Yes,Mostly dissatisfied,No,$90K and over,$30-44K,25-34
+395,395,43,3,15000,9th-11th,48,No,Yes,Mostly dissatisfied,Yes,30-44,$9-17K,45-54
+396,396,35,5,1500,some college,28,No,Yes,Mostly satisfied,Yes,30-44,less than $9K,25-34
+397,397,40,4,75000,some college,41,Yes,Yes,Somewhat dissatisfied,No,30-44,$75K and over,35-44
+398,398,75,4,66000,some college,51,No,Yes,Somewhat satisfied,No,75-89,$45-74K,45-54
+399,399,45,5,63000,high school grad,40,Yes,Yes,Somewhat satisfied,Yes,45-59,$45-74K,35-44
+400,400,75,5,69000,college grad,48,No,Yes,Mostly dissatisfied,Yes,75-89,$45-74K,45-54
+401,401,37.5,6,18000,high school grad,33,Yes,Yes,Completely satisfied,Yes,30-44,$18-29K,25-34
+402,402,45,6,18000,9th-11th,32,Yes,Yes,Neither satisfied nor dissatisfied,Yes,45-59,$18-29K,25-34
+403,403,35,4,16500,some college,29,Yes,Yes,Mostly dissatisfied,No,30-44,$9-17K,25-34
+404,404,75,5,84000,college grad,42,Yes,Yes,Completely satisfied,No,75-89,$75K and over,35-44
+405,405,33,3,33000,high school grad,48,No,Yes,Mostly satisfied,No,30-44,$30-44K,45-54
+406,406,54,9,60000,high school grad,45,Yes,Yes,Somewhat dissatisfied,Yes,45-59,$45-74K,45-54
+407,407,60,5,26100,9th-11th,37,Yes,Yes,Somewhat dissatisfied,No,60-74,$18-29K,35-44
+408,408,55,4,51000,9th-11th,34,Yes,Yes,Somewhat satisfied,Yes,45-59,$45-74K,25-34
+409,409,65,5,24000,high school grad,32,Yes,Yes,Completely satisfied,Yes,60-74,$18-29K,25-34
+410,410,90,6,18000,9th-11th,46,No,Yes,Somewhat dissatisfied,Yes,$90K and over,$18-29K,45-54
+411,411,75,7,84000,college grad,37,Yes,Yes,Neither satisfied nor dissatisfied,Yes,75-89,$75K and over,35-44
+412,412,60,3,96000,college grad,48,No,Yes,Somewhat satisfied,Yes,60-74,$75K and over,45-54
+413,413,52.5,5,46500,high school grad,34,No,Yes,Mostly satisfied,No,45-59,$45-74K,25-34
+414,414,40,6,18000,9th-11th,48,Yes,Yes,Mostly dissatisfied,Yes,30-44,$18-29K,45-54
+415,415,37.5,5,22500,9th-11th,28,Yes,Yes,Mostly satisfied,Yes,30-44,$18-29K,25-34
+416,416,67.5,9,28500,9th-11th,45,Yes,Yes,Somewhat satisfied,No,60-74,$18-29K,45-54
+417,417,57,4,30000,some college,34,No,Yes,Completely dissatisfied,Yes,45-59,$30-44K,25-34
+418,418,52.5,7,18000,high school grad,36,Yes,Yes,Completely satisfied,Yes,45-59,$18-29K,35-44
+419,419,48,4,40500,some college,40,Yes,Yes,Completely dissatisfied,Yes,45-59,$30-44K,35-44
+420,420,52.5,9,24000,high school grad,44,Yes,Yes,Completely dissatisfied,No,45-59,$18-29K,35-44
+421,421,37.5,5,18000,less than grade,57,No,Yes,Somewhat satisfied,No,30-44,$18-29K,55-64
+422,422,34,3,84000,less than grade,50,No,Yes,Completely satisfied,Yes,30-44,$75K and over,45-54
+423,423,45,4,13500,9th-11th,30,Yes,Yes,Mostly dissatisfied,Yes,45-59,$9-17K,25-34
+424,424,50,7,13500,some college,32,Yes,Yes,Neither satisfied nor dissatisfied,Yes,45-59,$9-17K,25-34
+425,425,60,4,27000,some college,49,No,Yes,Somewhat dissatisfied,Yes,60-74,$18-29K,45-54
+426,426,53.5,7,25500,9th-11th,36,Yes,Yes,Completely dissatisfied,No,45-59,$18-29K,35-44
+427,427,18,4,42000,college grad,36,Yes,Yes,Completely satisfied,Yes,15-29,$30-44K,35-44
+428,428,100,5,117000,college grad,44,No,Yes,Mostly satisfied,Yes,$90K and over,$75K and over,35-44
+429,429,37.5,4,51000,college grad,56,No,Yes,Somewhat satisfied,No,30-44,$45-74K,55-64
+430,430,85,7,54000,some college,38,Yes,Yes,Mostly satisfied,Yes,75-89,$45-74K,35-44
+431,431,75,8,54000,high school grad,36,Yes,Yes,Somewhat dissatisfied,Yes,75-89,$45-74K,35-44
+432,432,37.5,3,45000,high school grad,50,No,Yes,Mostly satisfied,No,30-44,$45-74K,45-54
+433,433,30,4,42000,high school grad,49,No,Yes,Mostly satisfied,Yes,30-44,$30-44K,45-54
+434,434,36,4,36000,high school grad,57,No,Yes,Somewhat dissatisfied,Yes,30-44,$30-44K,55-64
+435,435,30,6,10500,less than grade,39,Yes,Yes,Somewhat satisfied,Yes,30-44,$9-17K,35-44
+436,436,60,6,18000,high school grad,35,Yes,Yes,Mostly satisfied,Yes,60-74,$18-29K,35-44
+437,437,30,3,30000,9th-11th,24,No,Yes,Completely dissatisfied,No,30-44,$30-44K,less than 25
+438,438,73.5,7,36000,high school grad,38,Yes,Yes,Mostly dissatisfied,No,60-74,$30-44K,35-44
+439,439,40,6,18000,high school grad,41,Yes,Yes,Completely dissatisfied,Yes,30-44,$18-29K,35-44
+440,440,26.7,4,54000,some college,54,No,Yes,Completely dissatisfied,No,15-29,$45-74K,45-54
+441,441,37.5,5,18000,9th-11th,53,No,Yes,Completely satisfied,No,30-44,$18-29K,45-54
+442,442,68,4,27000,9th-11th,51,No,Yes,Neither satisfied nor dissatisfied,Yes,60-74,$18-29K,45-54
+443,443,60,8,63000,high school grad,44,No,Yes,Completely satisfied,Yes,60-74,$45-74K,35-44
+444,444,40,4,46500,college grad,40,Yes,Yes,Completely dissatisfied,Yes,30-44,$45-74K,35-44
+445,445,37.5,7,18000,high school grad,31,Yes,Yes,Completely satisfied,No,30-44,$18-29K,25-34
+446,446,86,6,30000,high school grad,56,No,Yes,Mostly dissatisfied,No,75-89,$30-44K,55-64
+447,447,45,4,36000,9th-11th,30,Yes,Yes,Somewhat dissatisfied,No,45-59,$30-44K,25-34
+448,448,60,4,43500,some college,56,No,Yes,Mostly satisfied,Yes,60-74,$30-44K,55-64
+449,449,24,6,25500,high school grad,38,Yes,Yes,Completely dissatisfied,Yes,15-29,$18-29K,35-44
+450,450,55,4,72000,college grad,44,No,Yes,Somewhat dissatisfied,No,45-59,$45-74K,35-44
+451,451,33,3,7500,9th-11th,47,No,Yes,Completely dissatisfied,No,30-44,less than $9K,45-54
+452,452,39,6,48000,9th-11th,50,No,Yes,Somewhat dissatisfied,Yes,30-44,$45-74K,45-54
+453,453,45,4,42000,high school grad,35,Yes,Yes,Completely satisfied,No,45-59,$30-44K,35-44
+454,454,45,4,18000,high school grad,39,No,Yes,Completely satisfied,Yes,45-59,$18-29K,35-44
+455,455,60,6,18000,high school grad,38,Yes,Yes,Mostly dissatisfied,Yes,60-74,$18-29K,35-44
+456,456,50,4,24000,high school grad,34,No,Yes,Completely dissatisfied,Yes,45-59,$18-29K,25-34
+457,457,28.5,5,21000,less than grade,33,Yes,Yes,Neither satisfied nor dissatisfied,No,15-29,$18-29K,25-34
+458,458,60,4,24000,high school grad,56,No,Yes,Completely satisfied,No,60-74,$18-29K,55-64
+459,459,45,4,18000,9th-11th,47,No,Yes,Mostly dissatisfied,No,45-59,$18-29K,45-54
+460,460,18,3,18000,high school grad,32,No,Yes,Completely dissatisfied,Yes,15-29,$18-29K,25-34
+461,461,115,4,10500,some college,31,No,Yes,Completely satisfied,Yes,$90K and over,$9-17K,25-34
+462,462,45,5,22500,high school grad,29,Yes,Yes,Completely satisfied,Yes,45-59,$18-29K,25-34
+463,463,50,3,30000,high school grad,50,No,Yes,Somewhat satisfied,Yes,45-59,$30-44K,45-54
+464,464,16.5,2,8400,9th-11th,59,No,Yes,Somewhat dissatisfied,No,15-29,less than $9K,55-64
+465,465,73,7,36000,9th-11th,30,Yes,Yes,Somewhat satisfied,No,60-74,$30-44K,25-34
+466,466,20,3,7800,high school grad,38,No,Yes,Completely satisfied,No,15-29,less than $9K,35-44
+467,467,33,3,27000,high school grad,40,No,Yes,Mostly satisfied,Yes,30-44,$18-29K,35-44
+468,468,60,3,66000,some college,42,No,Yes,Completely dissatisfied,No,60-74,$45-74K,35-44
+469,469,50,5,18000,9th-11th,42,No,Yes,Neither satisfied nor dissatisfied,No,45-59,$18-29K,35-44
+470,470,80,6,36000,less than grade,43,Yes,Yes,Completely satisfied,No,75-89,$30-44K,35-44
+471,471,105,7,60000,college grad,39,Yes,Yes,Completely dissatisfied,No,$90K and over,$45-74K,35-44
+472,472,52.5,5,13500,some college,55,No,Yes,Completely satisfied,No,45-59,$9-17K,55-64
+473,473,51,4,33000,some college,51,No,Yes,Somewhat satisfied,Yes,45-59,$30-44K,45-54
+474,474,60,5,48000,high school grad,34,Yes,Yes,Somewhat dissatisfied,Yes,60-74,$45-74K,25-34
+475,475,42,4,30000,high school grad,40,No,Yes,Completely satisfied,No,30-44,$30-44K,35-44
+476,476,55,3,30000,high school grad,45,No,Yes,Somewhat dissatisfied,Yes,45-59,$30-44K,45-54
+477,477,45,4,45000,high school grad,41,No,Yes,Somewhat dissatisfied,Yes,45-59,$45-74K,35-44
+478,478,56,4,48000,college grad,36,No,Yes,Somewhat dissatisfied,No,45-59,$45-74K,35-44
+479,479,69,4,45000,high school grad,34,No,Yes,Neither satisfied nor dissatisfied,Yes,60-74,$45-74K,25-34
+480,480,37.5,5,18000,high school grad,31,Yes,Yes,Mostly satisfied,Yes,30-44,$18-29K,25-34
+481,481,100,5,42000,some college,36,Yes,Yes,Mostly satisfied,Yes,$90K and over,$30-44K,35-44
+482,482,37.5,6,13500,9th-11th,40,Yes,Yes,Mostly satisfied,No,30-44,$9-17K,35-44
+483,483,30,3,10500,9th-11th,37,Yes,Yes,Somewhat satisfied,Yes,30-44,$9-17K,35-44
+484,484,49,7,24000,high school grad,44,Yes,Yes,Mostly satisfied,No,45-59,$18-29K,35-44
+485,485,37.5,6,34500,9th-11th,47,No,Yes,Somewhat dissatisfied,No,30-44,$30-44K,45-54
+486,486,70,3,26400,high school grad,58,No,Yes,Neither satisfied nor dissatisfied,No,60-74,$18-29K,55-64
+487,487,55,4,60000,some college,41,No,Yes,Neither satisfied nor dissatisfied,No,45-59,$45-74K,35-44
+488,488,52.5,8,27000,high school grad,46,Yes,Yes,Neither satisfied nor dissatisfied,No,45-59,$18-29K,45-54
+489,489,45,5,84000,some college,36,No,Yes,Mostly satisfied,Yes,45-59,$75K and over,35-44
+490,490,52.5,9,19500,9th-11th,40,Yes,Yes,Mostly dissatisfied,No,45-59,$18-29K,35-44
+491,491,67.5,8,18000,high school grad,47,Yes,Yes,Somewhat dissatisfied,Yes,60-74,$18-29K,45-54
+492,492,65,4,57000,some college,47,No,Yes,Mostly dissatisfied,Yes,60-74,$45-74K,45-54
+493,493,27,5,36000,some college,43,Yes,Yes,Somewhat satisfied,Yes,15-29,$30-44K,35-44
+494,494,42,6,39000,high school grad,39,Yes,Yes,Neither satisfied nor dissatisfied,No,30-44,$30-44K,35-44
+495,495,75,6,13500,less than grade,49,No,Yes,Mostly dissatisfied,No,75-89,$9-17K,45-54
+496,496,42,8,66000,9th-11th,39,Yes,Yes,Mostly dissatisfied,Yes,30-44,$45-74K,35-44
+497,497,52.5,4,29700,9th-11th,58,No,Yes,Somewhat satisfied,No,45-59,$18-29K,55-64
+498,498,72,5,42000,high school grad,36,Yes,Yes,Neither satisfied nor dissatisfied,Yes,60-74,$30-44K,35-44
+499,499,44,3,18000,9th-11th,56,No,Yes,Somewhat satisfied,Yes,30-44,$18-29K,55-64
+500,500,24,5,72000,college grad,33,Yes,Yes,Mostly dissatisfied,Yes,15-29,$45-74K,25-34
